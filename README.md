@@ -1,10 +1,14 @@
+![Java Web Logo](https://user-images.githubusercontent.com/37045332/124752079-c6e63580-defd-11eb-8b00-68f42c0f6689.png)
 
-## Projeto-JSP-Servlet-JDBC
-### Didactic project used in Java Web Full-Stack training course - JDevTreinamento. 
-> Status: Done
+# Projeto-JSP-Servlet-JDBC
 
-#### User registration
+## 🎓 Didactic Project
+Used in the Java Web Full-Stack training course provided by JDevTreinamento.
 
+> **Status:** 🌐 Done
 
-#### code in portuguese
+## 📋 Features
+- 🚀 User registration
+
+_Note: Code is in Portuguese._
 
